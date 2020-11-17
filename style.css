@@ -27,9 +27,7 @@
         width: 20%;
     }
     
-    .header-left-col {
-        flex-basis: 50%;
-    }
+   
     
     #navbar1 {
         display: flex;
